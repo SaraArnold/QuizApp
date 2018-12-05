@@ -1,0 +1,63 @@
+body {
+    background: url('background.jpg') fixed;
+}
+
+h1 {
+    font-family:  serif;
+    color: rgb(252, 252, 252);
+    font-size: 40px;
+}
+
+h2 {
+
+    font-family:  serif;
+    color: rgb(39, 39, 39);
+    font-size: 25px;
+}
+
+.title {
+    text-align: center;
+    box-sizing: border-box;
+    width: 1000px;
+    height: 120px;
+    background: rgb(105, 194, 105);
+    margin-left: 13%; 
+    padding-top: 10px; 
+    line-height: 90%;
+    border-style: inset;
+    border-width: 7px;
+    border-color: rgb(131, 36, 36);
+}
+
+.container {
+    text-align: center;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 750px;
+    height: 475px;
+    background: rgb(208, 247, 163); 
+    margin-top: 1%;
+    margin-bottom: 0%;
+    margin-left: 22%;
+    border-style: inset;
+    border-width: 7px;
+    border-color:rgb(131, 36, 36);
+}
+
+button {
+
+    margin-top: 20px;
+    padding: 15px;
+    width: 320px;
+    height: 55px;
+    background: rgb(105, 194, 105);
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.2s ease;
+    cursor: pointer;
+  }
+
